@@ -1,4 +1,4 @@
-- Hello, I’m @AdelekeBankole, I’m interested in the design, development, analysis and implementation of general discretizations of PDEs applied to numerical fluid flow simulations 
+- Hello, I’m @AdelekeBankole, interested in the design, development, analysis and implementation of general discretizations of PDEs applied to numerical fluid flow simulations 
 
 
 <!---
